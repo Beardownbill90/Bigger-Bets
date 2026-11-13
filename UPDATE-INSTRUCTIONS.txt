@@ -1,14 +1,5 @@
-BIGGER BETS - UPDATED GITHUB PAGES FILES
+Extract this ZIP, open Bigger-Bets, and upload ALL files inside to your GitHub repository root, replacing the existing files. Commit changes and wait for GitHub Pages to deploy. Do not upload just the ZIP or nest the folder.
 
-1. Extract this ZIP in Files.
-2. Open your GitHub repository. Choose Add file > Upload files.
-3. Upload ALL the extracted files directly beside index.html, replacing existing files. Do not upload the ZIP itself.
-4. Commit changes and wait for GitHub Pages to finish deploying.
+Version 37: includes daily prize wheel with coin and pack prizes, gocubsgo daily code, player-prop fixes, automatic settlement, Miami event, search, recap and watchlist.
 
-Includes the latest automatic bet settlement, Miami event, search, recap, watchlist, and other frontend updates. Existing device progress uses the same save key.
-
-GitHub Pages is static hosting. Friends, shared Recommendations, and server-backed Daily Bingo require the hosted Bigger Bets site:
-https://bigger-bets-billy.carvedginger.chatgpt.site
-Those services cannot run from this ZIP on GitHub Pages.
-
-Version: 34; source debc989d8bbd94d2fbc9e0c278a0d72573ce4143
+Friends, shared Recommendations and server-backed Daily Bingo need the hosted version: https://bigger-bets-billy.carvedginger.chatgpt.site . GitHub Pages cannot run these server features.
